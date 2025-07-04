@@ -17967,7 +17967,7 @@ video {
   height: 100%;
   content: ' ';
   z-index: 0;
-  background: rgba(109 133 99);
+  background: #5a5659;
   opacity: .5;
 }
 .bg-overlay[data-style="1"] {
